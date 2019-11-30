@@ -55,7 +55,7 @@ img {
     visibility: hidden;
     z-index: 1;
     font-family: sans-serif;
-    font-size: 140px;
+    font-size: 90px;
     font-weight: bold;
     color: navy;
     background-color: trasparent;
@@ -66,7 +66,7 @@ img {
     visibility: hidden;
     z-index: 1;
     font-family: sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     color: limegreen;
     background-color: trasparent;
