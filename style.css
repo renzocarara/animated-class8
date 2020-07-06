@@ -21,12 +21,6 @@ img {
     object-position: center;
 }
 
-/* img {
-    width: 275px;
-    height: 146px;
-    object-fit: cover;
-    object-position: center;
-} */
 .container {
     width: 100vw;
     height: 100vh;
